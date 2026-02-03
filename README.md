@@ -1,4 +1,4 @@
-# SOFTWARE-ENGINEERING
+# SOFTWARE-ENGINEERING SYLLABUS
 Software Engineering, Ian Somerville, 7th edition, Pearson education.
 DS405PC: SOFTWARE ENGINEERING 
 B.Tech. II Year II Sem. L  T P C 
