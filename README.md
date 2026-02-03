@@ -1,6 +1,5 @@
 # SOFTWARE-ENGINEERING SYLLABUS
-## Software Engineering, Ian Somerville, 7th edition, Pearson education.
-## DS405PC: SOFTWARE ENGINEERING B.Tech. II Year II Sem. 
+## DS405PC: SOFTWARE ENGINEERING [B.Tech. II Year II Sem.] 
 ## Course Objectives 
 - The aim of the course is to provide an understanding of the working knowledge of the techniques for estimation, design, testing and quality management of large software development projects.
 - Topics include process models, software requirements, software design, software testing, software process/product metrics, risk management, quality management and UML diagrams 
